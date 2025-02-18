@@ -2,8 +2,3 @@
 videoes
 *.mp4
 *.mkv
-
-# Sounds and audio file
-
-sounds
-*.mp3
