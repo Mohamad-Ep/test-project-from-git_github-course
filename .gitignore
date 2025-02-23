@@ -2,3 +2,6 @@
 videoes
 *.mp4
 *.mkv
+
+#images
+*.png
