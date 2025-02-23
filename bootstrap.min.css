@@ -3,3 +3,7 @@
 .main-s{
     background-color: azure;
 }
+
+p.par{
+    column-rule: 0cap;
+}
