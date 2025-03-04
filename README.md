@@ -1,6 +1,12 @@
 
 # Example for markdown (md)
 
+## Badge in shield.io
+
+![Static Badge](https://img.shields.io/badge/Course-Git_GitHub-gold?style=flat&logo=git&logoColor=gold&labelColor=blue&color=red&link=https%3A%2F%2Fgithub.com%2FMammad-Ep%2Ftest-project-from-git_github-course)
+
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbadges%2Fshields%2Fmaster%2Fpackage.json&query=engines.node&style=for-the-badge&label=Engine%20Node&labelColor=red&color=yellow)
+
 ### Features
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
